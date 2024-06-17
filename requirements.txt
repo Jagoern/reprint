@@ -14,7 +14,7 @@ pandas == 0.23.0
 
 # src\test.py: 10
 # src\utils.py: 13
-scikit_learn == 0.19.1
+scikit_learn == 1.5.0
 
 # src\main.py: 8,12,14,18
 # src\test.py: 7
