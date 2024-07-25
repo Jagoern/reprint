@@ -20,7 +20,7 @@ scikit_learn == 0.19.1
 # src\test.py: 7
 # src\train.py: 9
 # src\utils.py: 10
-torch == 0.4.1
+torch == 2.2.0
 
 # src\dataset.py: 7
 # src\main.py: 10,11
